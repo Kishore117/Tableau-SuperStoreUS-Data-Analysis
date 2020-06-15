@@ -1,2 +1,2 @@
-# Tableau-SuperStoreUS-Data-Analysi
+# Tableau-SuperStoreUS-Data-Analysis
 Data Analysis of SuperStoreUS using Tableau
